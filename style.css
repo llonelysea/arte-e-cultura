@@ -1,0 +1,43 @@
+#corpo{
+    background-color:rgb(218, 219, 224);
+    padding: 100;
+}
+#titulo{
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 10px;
+    color: rgb(52, 57, 73);
+}
+#subtitulo{
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 10px;
+    color:rgb(52, 57, 73);
+}
+#div1{
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 5px;
+    background-color: rgb(52, 57, 73);
+    color: rgb(139, 144, 160);
+}
+.perguntas{
+    color: rgb(93, 98, 116);
+}
+.respostas{
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 5px;
+    color: rgb(139, 144, 160);
+}
+#topico1, #topico2{
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 10px;
+    color: rgb(52, 57, 73);
+}
+#pergunta4{
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 5px;
+    color: rgb(93, 98, 116);
+}
+#textoexplicativo{
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 5px;
+    color: rgb(139, 144, 160);
+}
